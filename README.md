@@ -1,2 +1,2 @@
 # Angewandte-Mathematik
-Das Projekt für das Angewandte Mathematik Modul im SoSe 2026
+Das Projekt für das Mathe 2 Modul im SoSe 2026
